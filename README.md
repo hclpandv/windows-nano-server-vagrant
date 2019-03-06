@@ -1,0 +1,1 @@
+# windows-nano-server-vagrant
